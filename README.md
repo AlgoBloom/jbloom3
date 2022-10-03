@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Joshua Bloom.
 - 👀 I’m interested in Algorand development.
 - 🌱 I’m currently learning PyTeal, Reach, and Rust.
-- 💞️ I’m looking to collaborate on PyTeal projects.
+- 💞️ I’m looking to collaborate on Algorand projects.
 - 📫 Reach me at: bloomblockchain@gmail.com
 
 <!---
